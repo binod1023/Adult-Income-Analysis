@@ -1,2 +1,4 @@
 # income_analysis
- analysis of income,age,gender,education
+ This project briefly analyze income of adult population by age, gender, occupation, educational level, and annual salary.
+ 
+ 
